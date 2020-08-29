@@ -9,5 +9,13 @@
             "email": "syaifulshahzinan@gmail.com"
         }
     ],
-    "require": {}
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-0": {
+            "syaifulsz": "src/"
+        }
+    }
 }

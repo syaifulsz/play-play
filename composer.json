@@ -1,0 +1,13 @@
+{
+    "name": "syaifulsz/play-play",
+    "description": "Trying my first open-source library",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Syaiful Shah Zinan",
+            "email": "syaifulshahzinan@gmail.com"
+        }
+    ],
+    "require": {}
+}

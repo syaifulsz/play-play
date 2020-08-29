@@ -14,8 +14,8 @@
         "php": ">=7.1"
     },
     "autoload": {
-        "psr-0": {
-            "syaifulsz": "src/"
+        "psr-4": {
+            "syaifulsz\\": "src/"
         }
     }
 }
